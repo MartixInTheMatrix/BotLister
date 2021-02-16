@@ -86,10 +86,11 @@ client.on('message', async(message) => {
         .setColor('GREEN')
         .setTitle(`Tu viens de monter au niveau ${profile.level + 1} ! gg`)
         .setDescription(`Tu viens donc de gagner **1** crédit à ta cagnote !`)
+    
     )
 
   }
   }
 )
 
-client.login('Nzg3NzQ4NjMwMDA5MjE3MDc0.X9ZeFQ.eAk9RP2u_WkXAPkU6vAY_0e5R9g')
+client.login('Nzg3NzQ4NjMwMDA5MjE3MDc0.X9ZeFQ.hvKNR3uFF6Ex9tGVVKEit89Q68s')
